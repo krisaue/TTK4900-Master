@@ -1,0 +1,3 @@
+/home/kristian/TTK4900-Master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kristian/TTK4900-Master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kristian/TTK4900-Master/cmake-build-debug/CMakeFiles/TTK4900_Master.dir

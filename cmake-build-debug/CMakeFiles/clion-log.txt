@@ -1,0 +1,4 @@
+/snap/clion/139/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/kristian/TTK4900-Master
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kristian/TTK4900-Master/cmake-build-debug
