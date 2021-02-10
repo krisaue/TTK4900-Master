@@ -7,7 +7,7 @@ find_package(Sophus CONFIG REQUIRED)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(TTK4900_Master main.cpp testFunctions.cpp testFunctions.h)
+add_executable(TTK4900_Master main.cpp testFunctions.cpp testFunctions.h stereoCalibTest.cpp)
 target_link_libraries(${PROJECT_NAME}
         ${OpenCV_LIBS}
         Eigen3::Eigen

@@ -170,6 +170,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TTK4900_Master.dir/build.make CMakeFiles/TTK4900_Master.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+stereoCalibTest.o: stereoCalibTest.cpp.o
+
+.PHONY : stereoCalibTest.o
+
+# target to build an object file
+stereoCalibTest.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TTK4900_Master.dir/build.make CMakeFiles/TTK4900_Master.dir/stereoCalibTest.cpp.o
+.PHONY : stereoCalibTest.cpp.o
+
+stereoCalibTest.i: stereoCalibTest.cpp.i
+
+.PHONY : stereoCalibTest.i
+
+# target to preprocess a source file
+stereoCalibTest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TTK4900_Master.dir/build.make CMakeFiles/TTK4900_Master.dir/stereoCalibTest.cpp.i
+.PHONY : stereoCalibTest.cpp.i
+
+stereoCalibTest.s: stereoCalibTest.cpp.s
+
+.PHONY : stereoCalibTest.s
+
+# target to generate assembly for a file
+stereoCalibTest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TTK4900_Master.dir/build.make CMakeFiles/TTK4900_Master.dir/stereoCalibTest.cpp.s
+.PHONY : stereoCalibTest.cpp.s
+
 testFunctions.o: testFunctions.cpp.o
 
 .PHONY : testFunctions.o
@@ -209,6 +236,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... stereoCalibTest.o"
+	@echo "... stereoCalibTest.i"
+	@echo "... stereoCalibTest.s"
 	@echo "... testFunctions.o"
 	@echo "... testFunctions.i"
 	@echo "... testFunctions.s"

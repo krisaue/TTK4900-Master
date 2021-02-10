@@ -89,6 +89,9 @@
 		<Unit filename="/home/kristian/TTK4900-Master/main.cpp">
 			<Option target="TTK4900_Master"/>
 		</Unit>
+		<Unit filename="/home/kristian/TTK4900-Master/stereoCalibTest.cpp">
+			<Option target="TTK4900_Master"/>
+		</Unit>
 		<Unit filename="/home/kristian/TTK4900-Master/testFunctions.cpp">
 			<Option target="TTK4900_Master"/>
 		</Unit>

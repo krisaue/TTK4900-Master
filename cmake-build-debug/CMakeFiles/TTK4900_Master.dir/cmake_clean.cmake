@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/TTK4900_Master.dir/main.cpp.o"
+  "CMakeFiles/TTK4900_Master.dir/stereoCalibTest.cpp.o"
   "CMakeFiles/TTK4900_Master.dir/testFunctions.cpp.o"
   "TTK4900_Master"
   "TTK4900_Master.pdb"
